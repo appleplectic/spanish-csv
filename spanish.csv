@@ -1,19 +1,19 @@
-﻿Word,Meaning,Yo,Tú,Él/Ella/Usted,Nosotros,Vosotros,Ellos/Ellas/Ustedes
-creer,to think,creí,creíste,creyó,creímos,creísteis,creyeron
-leer,to read,leí,leíste,leyó,leímos,leísteis,leyeron
-pedir,to ask for,pedí,pediste,pidió,pedimos,pedisteis,pidieron
-medir,to measure,medí,mediste,midió,medimos,medisteis,midieron
-repetir,to repeat,repetí,repetiste,repitió,repetimos,repetisteis,repitieron
-morir,to die,morí,moriste,murió,morimos,moristeis,murieron
-mentir,to lie,mentí,mentiste,mintió,mentimos,mentisteis,mintieron
-freír,to fry,freí,freíste,frió,freímos,freísteis,frieron
-perderse,to lose,me perdí,te perdiste,se perdió,nos perdimos,os perdisteis,se perdieron
-servir,to serve,serví,serviste,sirvió,servimos,servisteis,sirvieron
-vestirse,to wear,me vestí,te vestiste,se vistió,nos vestimos,os vestisteis,se vistieron
-elegir,to elect,elegí,elegiste,eligió,elegimos,elegisteis,eligieron
-competir,to compete,competí,competiste,compitió,competimos,competisteis,compitieron
-preferir,to prefer,preferí,preferiste,prefirió,preferimos,preferisteis,prefirieron
-dormir,to sleep,dormí,dormiste,durmió,dormimos,dormisteis,durmieron
-sonreír,to smile,sonreí,sonreíste,sonrió,sonreímos,sonreísteis,sonrieron
-reír,to laugh,reí,reíste,rió,reímos,reísteis,rieron
-seguir,to follow,seguí,seguiste,siguió,seguimos,seguisteis,siguieron
+Word,Meaning,Yo,Tú,Él/Ella/Usted,Nosotros,Vosotros,Ellos/Ellas/Ustedes,Tense
+creer,to think,creí,creíste,creyó,creímos,creísteis,creyeron,preterite
+leer,to read,leí,leíste,leyó,leímos,leísteis,leyeron,preterite
+pedir,to ask for,pedí,pediste,pidió,pedimos,pedisteis,pidieron,preterite
+medir,to measure,medí,mediste,midió,medimos,medisteis,midieron,preterite
+repetir,to repeat,repetí,repetiste,repitió,repetimos,repetisteis,repitieron,preterite
+morir,to die,morí,moriste,murió,morimos,moristeis,murieron,preterite
+mentir,to lie,mentí,mentiste,mintió,mentimos,mentisteis,mintieron,preterite
+freír,to fry,freí,freíste,frió,freímos,freísteis,frieron,preterite
+perderse,to lose,me perdí,te perdiste,se perdió,nos perdimos,os perdisteis,se perdieron,preterite
+servir,to serve,serví,serviste,sirvió,servimos,servisteis,sirvieron,preterite
+vestirse,to wear,me vestí,te vestiste,se vistió,nos vestimos,os vestisteis,se vistieron,preterite
+elegir,to elect,elegí,elegiste,eligió,elegimos,elegisteis,eligieron,preterite
+competir,to compete,competí,competiste,compitió,competimos,competisteis,compitieron,preterite
+preferir,to prefer,preferí,preferiste,prefirió,preferimos,preferisteis,prefirieron,preterite
+dormir,to sleep,dormí,dormiste,durmió,dormimos,dormisteis,durmieron,preterite
+sonreír,to smile,sonreí,sonreíste,sonrió,sonreímos,sonreísteis,sonrieron,preterite
+reír,to laugh,reí,reíste,rió,reímos,reísteis,rieron,preterite
+seguir,to follow,seguí,seguiste,siguió,seguimos,seguisteis,siguieron,preterite
