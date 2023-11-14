@@ -1,40 +1,39 @@
-Word,Meaning,Yo,Tú,Él/Ella/Usted,Nosotros,Vosotros,Ellos/Ellas/Ustedes,Tense
-creer,to think,creí,creíste,creyó,creímos,creísteis,creyeron,preterite
-leer,to read,leí,leíste,leyó,leímos,leísteis,leyeron,preterite
-pedir,to ask for,pedí,pediste,pidió,pedimos,pedisteis,pidieron,preterite
-medir,to measure,medí,mediste,midió,medimos,medisteis,midieron,preterite
-repetir,to repeat,repetí,repetiste,repitió,repetimos,repetisteis,repitieron,preterite
-morir,to die,morí,moriste,murió,morimos,moristeis,murieron,preterite
-mentir,to lie,mentí,mentiste,mintió,mentimos,mentisteis,mintieron,preterite
-freír,to fry,freí,freíste,frió,freímos,freísteis,frieron,preterite
-perderse,to lose,me perdí,te perdiste,se perdió,nos perdimos,os perdisteis,se perdieron,preterite
-servir,to serve,serví,serviste,sirvió,servimos,servisteis,sirvieron,preterite
-vestirse,to wear,me vestí,te vestiste,se vistió,nos vestimos,os vestisteis,se vistieron,preterite
-elegir,to elect,elegí,elegiste,eligió,elegimos,elegisteis,eligieron,preterite
-competir,to compete,competí,competiste,compitió,competimos,competisteis,compitieron,preterite
-preferir,to prefer,preferí,preferiste,prefirió,preferimos,preferisteis,prefirieron,preterite
-dormir,to sleep,dormí,dormiste,durmió,dormimos,dormisteis,durmieron,preterite
-sonreír,to smile,sonreí,sonreíste,sonrió,sonreímos,sonreísteis,sonrieron,preterite
-reír,to laugh,reí,reíste,rió,reímos,reísteis,rieron,preterite
-seguir,to follow,seguí,seguiste,siguió,seguimos,seguisteis,siguieron,preterite
-ir,to go,fui,fuiste,fue,fuimos,fuisteis,fueron,preterite
-ser,to be,fui,fuiste,fue,fuimos,fuisteis,fueron,preterite
-dar,to give,di,diste,dio,dimos,disteis,dieron,preterite
-ver,to see,vi,viste,vio,vimos,visteis,vieron,preterite
-hacer,to make,hice,hiciste,hizo,hicimos,hicisteis,hicieron,preterite
-satisfacer,to satisfy,satisfice,satisficiste,satisfizo,satisficimos,satisficisteis,satisficieron,preterite
-querer,to want,quise,quisiste,quisio,quisimos,quisisteis,quisieron,preterite
-venir,to come,vine,viste,vino,vinimos,vinisteis,vinieron,preterite
-tener,to have,tuve,tuviste,tuvo,tuvimos,tuvisteis,tuvieron,preterite
-estar,to be,estuve,estuviste,estuvo,estuvimos,estuvisteis,estuvieron,preterite
-andar,to walk,anduve,anduviste,anduvo,anduvimos,anduvisteis,anduvieron,preterite
-poder,can,pude,pudiste,pudo,pudimos,pudisteis,pudieron,preterite
-poner,to put,puse,pusiste,puso,pusimos,pusisteis,pusieron,preterite
-saber,to find out,supe,supiste,supo,supimos,supisteis,supieron,preterite
-caber,to fit,cupe,cupiste,cupo,cupimos,cupisteis,cupieron,preterite
-decir,to say,dije,dijiste,dijo,dijimos,dijisteis,dijeron,preterite
-traer,to bring,traje,trajiste,trajo,trajimos,trajisteis,trajeron,preterite
-conducir,to drive,conduje,condujiste,condujo,condujimos,condujisteis,condujeron,preterite
-traducir,to translate,traduje,tradujiste,tradujo,tradujimos,tradujisteis,tradujeron,preterite
-producir,to produce,produje,produjiste,produjo,produjimos,produjisteis,produjeron,preterite
-reducir,to reduce,reduje,redujiste,redujo,redujimos,redujisteis,redujeron,preterite
+Word,Meaning,Yo,Tú,Él/Ella/Usted,Nosotros,Vosotros,Ellos/Ellas/Ustedes,Tense,Extra Notes
+creer,to think,creí,creíste,creyó,creímos,creísteis,creyeron,preterite,Dipthong verb
+leer,to read,leí,leíste,leyó,leímos,leísteis,leyeron,preterite,Dipthong verb
+pedir,to ask for,pedí,pediste,pidió,pedimos,pedisteis,pidieron,preterite,Stem changer - e to i
+medir,to measure,medí,mediste,midió,medimos,medisteis,midieron,preterite,Stem changer - e to i
+repetir,to repeat,repetí,repetiste,repitió,repetimos,repetisteis,repitieron,preterite,Stem changer - e to i
+morir,to die,morí,moriste,murió,morimos,moristeis,murieron,preterite,Stem changer - o to u
+mentir,to lie,mentí,mentiste,mintió,mentimos,mentisteis,mintieron,preterite,Stem changer - e to i
+freír,to fry,freí,freíste,frió,freímos,freísteis,frieron,preterite,Irregular
+servir,to serve,serví,serviste,sirvió,servimos,servisteis,sirvieron,preterite,Stem changer - e to i
+vestirse,to wear,me vestí,te vestiste,se vistió,nos vestimos,os vestisteis,se vistieron,preterite,Stem changer - e to i
+elegir,to elect,elegí,elegiste,eligió,elegimos,elegisteis,eligieron,preterite,Stem changer - e to i
+competir,to compete,competí,competiste,compitió,competimos,competisteis,compitieron,preterite,Stem changer - e to i
+preferir,to prefer,preferí,preferiste,prefirió,preferimos,preferisteis,prefirieron,preterite,Stem changer - e to i
+dormir,to sleep,dormí,dormiste,durmió,dormimos,dormisteis,durmieron,preterite,Stem changer - o to u
+sonreír,to smile,sonreí,sonreíste,sonrió,sonreímos,sonreísteis,sonrieron,preterite,Irregular
+reír,to laugh,reí,reíste,rió,reímos,reísteis,rieron,preterite,Irregular
+seguir,to follow,seguí,seguiste,siguió,seguimos,seguisteis,siguieron,preterite,Stem changer - e to i
+ir,to go,fui,fuiste,fue,fuimos,fuisteis,fueron,preterite,Complete irregular; no accents; same as ser
+ser,to be,fui,fuiste,fue,fuimos,fuisteis,fueron,preterite,Complete irregular; no accents; same as ir
+dar,to give,di,diste,dio,dimos,disteis,dieron,preterite,Complete irregular; no accents
+ver,to see,vi,viste,vio,vimos,visteis,vieron,preterite,Complete irregular; no accents
+hacer,to make,hice,hiciste,hizo,hicimos,hicisteis,hicieron,preterite,"""I"" verb"
+satisfacer,to satisfy,satisfice,satisficiste,satisfizo,satisficimos,satisficisteis,satisficieron,preterite,"""I"" verb"
+querer,to want,quise,quisiste,quisio,quisimos,quisisteis,quisieron,preterite,"""I"" verb"
+venir,to come,vine,viste,vino,vinimos,vinisteis,vinieron,preterite,"""I"" verb"
+tener,to have,tuve,tuviste,tuvo,tuvimos,tuvisteis,tuvieron,preterite,"""U"" verb"
+estar,to be,estuve,estuviste,estuvo,estuvimos,estuvisteis,estuvieron,preterite,"""U"" verb"
+andar,to walk,anduve,anduviste,anduvo,anduvimos,anduvisteis,anduvieron,preterite,"""U"" verb"
+poder,can,pude,pudiste,pudo,pudimos,pudisteis,pudieron,preterite,"""U"" verb"
+poner,to put,puse,pusiste,puso,pusimos,pusisteis,pusieron,preterite,"""U"" verb"
+saber,to find out,supe,supiste,supo,supimos,supisteis,supieron,preterite,"""U"" verb"
+caber,to fit,cupe,cupiste,cupo,cupimos,cupisteis,cupieron,preterite,"""U"" verb"
+decir,to say,dije,dijiste,dijo,dijimos,dijisteis,dijeron,preterite,"""J"" verb"
+traer,to bring,traje,trajiste,trajo,trajimos,trajisteis,trajeron,preterite,"""J"" verb"
+conducir,to drive,conduje,condujiste,condujo,condujimos,condujisteis,condujeron,preterite,"""J"" verb"
+traducir,to translate,traduje,tradujiste,tradujo,tradujimos,tradujisteis,tradujeron,preterite,"""J"" verb"
+producir,to produce,produje,produjiste,produjo,produjimos,produjisteis,produjeron,preterite,"""J"" verb"
+reducir,to reduce,reduje,redujiste,redujo,redujimos,redujisteis,redujeron,preterite,"""J"" verb"
