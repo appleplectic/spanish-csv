@@ -1,0 +1,55 @@
+Word,Meaning,Yo,Tú,Él/Ella/Usted,Nosotros,Vosotros,Ellos/Ellas/Ustedes,Tense,Extra Notes
+ver,to see,veo,ves,ve,vemos,veis,ven,present,Complete Irregular
+saber,to know,sé,sabes,sabe,sabemos,sabéis,saben,present,Complete Irregular
+conocer,to know,conozco,conoces,conoce,conocemos,conocéis,conocen,present,"Complete Irregular, ""z"" verb"
+dar,to give,doy,das,da,damos,dais,dan,present,Complete Irregular
+ser,to be,soy,eres,es,somos,sois,son,present,Complete Irregular
+estar,to be,estoy,estás,está,estamos,estáis,están,present,Complete Irregular
+ir,to go,voy,vas,va,vamos,vais,van,present,Complete Irregular
+tener,to have,tengo,tienes,tiene,tenemos,tenéis,tienen,present,"""go"" verb & e to i stem changer"
+detener,to stop,detengo,detienes,detiene,detenemos,detenéis,detienen,present,"""go"" verb & e to i stem changer"
+hacer,to do/make,hago,haces,hace,hacemos,hacéis,hacen,present,"""go"" verb"
+deshacer,to undo/dismantle,deshago,deshaces,deshace,deshacemos,deshacéis,deshacen,present,"""go"" verb"
+venir,to come,vengo,vienes,viene,venimos,venís,vienen,present,"""go"" verb & e to i stem changer"
+decir,to say,digo,dices,dice,decimos,decís,dicen,present,"""go"" verb & e to i stem changer"
+salir,to leave/go out,salgo,sales,sale,salimos,salís,salen,present,"""go"" verb"
+poner,to put/place,pongo,pones,pone,ponemos,ponéis,ponen,present,"""go"" verb"
+oír,to hear,oigo,oyes,oye,oímos,oís,oyen,present,"""go"" & ""y"" verb"
+caer,to fall,caigo,caes,cae,caemos,caéis,caen,present,"""go"" verb"
+seguir,to follow,sigo,sigues,sigue,seguimos,seguís,siguen,present,"""go"" verb & e to i stem changer"
+traer,to bring,traigo,traes,trae,traemos,traéis,traen,present,"""go"" verb"
+parecer,to seem,parezco,pareces,parece,parecemos,parecéis,parecen,present,"""z"" verb"
+aparecer,to appear/appear,aparezco,apareces,aparece,aparecemos,aparecéis,aparecen,present,"""z"" verb"
+nacer,to be born,nazco,naces,nace,nacemos,nacéis,nacen,present,"""z"" verb"
+ofrecer,to offer,ofrezco,ofreces,ofrece,ofrecemos,ofrecéis,ofrecen,present,"""z"" verb"
+reconocer,to recognize,reconozco,reconoces,reconoce,reconocemos,reconocéis,reconocen,present,"""z"" verb"
+traducir,to translate,traduzco,traduces,traduce,traducimos,traducís,traducen,present,"""z"" verb"
+producir,to produce,produzco,produces,produce,producimos,producís,producen,present,"""z"" verb"
+reducir,to reduce,reduzco,reduces,reduce,reducimos,reducís,reducen,present,"""z"" verb"
+conducir,to drive,conduzco,conduces,conduce,conducimos,conducís,conducen,present,"""z"" verb"
+enviar,to send,envío,envías,envía,enviamos,enviáis,envían,present,accent verb
+esquiar,to ski,esquío,esquías,esquía,esquiamos,esquiáis,esquían,present,accent verb
+graduarse,to graduate,me gradúo,te gradúas,se gradúa,nos graduamos,os graduáis,se gradúan,present,accent verb
+continuar,to continue,continúo,continúas,continúa,continuamos,continuáis,continúan,present,accent verb
+desafiar,to challenge,desafío,desafías,desafía,desafiamos,desafiáis,desafían,present,accent verb
+actuar,to act,actúo,actúas,actúa,actuamos,actuáis,actúan,present,accent verb
+efectuar,to carry out,efectúo,efectúas,efectúa,efectuamos,efectuáis,efectúan,present,accent verb
+guiar,to guide,guío,guías,guía,guiamos,guiáis,gúian,present,accent verb
+confiar,to trust,confío,confías,confía,confiamos,confiáis,confían,present,accent verb
+fiarse,to trust,me fío,te fías,se fía,nos fiamos,os fiáis,se fían,present,accent verb
+resfriarse,to catch a cold,me resfrío,te resfrías,se resfría,nos resfriamos,os resfriáis,se resfrían,present,accent verb
+variar,to vary,varío,varías,varía,variamos,variáis,varían,present,accent verb
+huir,to flee,huyo,huyes,huye,huimos,huís,huyen,present,"""y"" verb"
+incluir,to include,incluyo,incluyes,incluye,incluimos,incluís,incluyen,present,"""y"" verb"
+concluir,to conclude,concluyo,concluyes,concluye,concluimos,concluís,concluyen,present,"""y"" verb"
+destruir,to destroy,destruyo,destruyes,destruye,destruimos,destruís,destruyen,present,"""y"" verb"
+construir,to build,construyo,construyes,construye,construimos,construís,construyen,present,"""y"" verb"
+escoger,to choose,escojo,escoges,escoge,escogemos,escogéis,escogen,present,"""j"" verb"
+corregir,to correct,corrijo,corriges,corrige,corregimos,corregís,corrigen,present,"""j"" verb"
+elegir,to choose,elijo,eliges,elige,elegimos,elegís,eligen,present,"""j"" verb"
+exigir,to demand,exijo,exiges,exige,exigimos,exigís,exigen,present,"""j"" verb"
+fingir,to pretend,finjo,finges,finge,fingimos,fingís,fingen,present,"""j"" verb"
+proteger,to protect,protejo,proteges,protege,protegemos,protegéis,protegen,present,"""j"" verb"
+coger,to take,cojo,coges,coge,cogemos,cogéis,cogen,present,"""j"" verb"
+recoger,to pick up,recojo,recoges,recoge,recogemos,recogéis,recogen,present,"""j"" verb"
+dirigir,to direct,dirijo,diriges,dirige,dirigimos,dirigís,dirigen,present,"""j"" verb"
