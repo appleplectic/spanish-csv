@@ -1,30 +1,30 @@
-Word,Meaning,Yo,Tú,Él/Ella/Usted,Nosotros,Vosotros,Ellos/Ellas/Ustedes,Extra Notes
-hablar,to speak,hablé,hablaste,habló,hablamos,hablasteis,hablaron,
-bailar,to dance,bailé,bailaste,bailó,bailamos,bailasteis,bailaron,
-vivir,to live,viví,viviste,vivió,vivimos,vivisteis,vivieron,
-comer,to eat,comí,comiste,comió,comimos,comisteis,comieron,
-levantarse,to get up,me levanté,te levantaste,se levantó,nos levantamos,os levantasteis,se levantaron,
-aprender,to learn,aprendí,aprendiste,aprendió,aprendimos,aprendisteis,aprendieron,
-escribir,to write,escribí,escribiste,escribió,escribimos,escribisteis,escribieron,
-escoger,to choose,escogí,escogiste,escogió,escogimos,escogisteis,escogieron,
-tocar,to play (an instrument),toqué,tocaste,tocó,tocamos,tocasteis,tocaron,cargarzar
-llegar,to arrive,llegué,llegaste,llegó,llegamos,llegasteis,llegaron,cargarzar
-empezar,to begin,empecé,empezaste,empezó,empezamos,empezasteis,empezaron,cargarzar
-leer,to read,leí,leíste,leyó,leímos,leísteis,leyeron,y-verb
-creer,to believe,creí,creíste,creyó,creímos,creísteis,creyeron,y-verb
-caerse,to fall,me caí,te caíste,se cayó,nos caímos,os caísteis,se cayeron,y-verb
-oír,to hear,oí,oíste,oyó,oímos,oísteis,oyeron,y-verb
-incluir,to include,incluí,incluiste,incluyó,incluimos,incluisteis,incluyeron,y-verb
-destruir,to destroy,destruí,destruiste,destruyó,destruimos,destruisteis,destruyeron,y-verb
-concluir,to conclude,concluí,concluiste,concluyó,concluimos,concluisteis,concluyeron,y-verb
-buscar,to search,busqué,buscaste,buscó,buscamos,buscasteis,buscaron,cargarzar
-ensayar,to rehearse,ensayé,ensayaste,ensayó,ensayamos,ensayasteis,ensayaron,
-conocer,to know (a person or place),conocí,conociste,conoció,conocimos,conocisteis,conocieron,
-asistir,to attend,asistí,asististe,asistió,asistimos,asististeis,asistieron,
-ganar,to win,gané,ganaste,ganó,ganamos,ganasteis,ganaron,
-volver,to return,volví,volviste,volvió,volvimos,volvisteis,volvieron,
-encontrar,to find,encontré,encontraste,encontró,encontramos,encontrasteis,encontraron,
-gastar,to spend,gasté,gastaste,gastó,gastamos,gastasteis,gastaron,
-comprar,to buy,compré,compraste,compró,compramos,comprasteis,compraron,
-lavarse,to wash oneself,me lavé,te lavaste,se lavó,nos lavamos,os lavasteis,se lavaron,
-bañarse,to bathe oneself,me bañé,te bañaste,se bañó,nos bañamos,os bañasteis,se bañaron,
+Word,Meaning,Yo,Tú,Él/Ella/Usted,Nosotros,Vosotros,Ellos/Ellas/Ustedes,Tense,Extra Notes
+hablar,to speak,hablé,hablaste,habló,hablamos,hablasteis,hablaron,preterite,
+bailar,to dance,bailé,bailaste,bailó,bailamos,bailasteis,bailaron,preterite,
+vivir,to live,viví,viviste,vivió,vivimos,vivisteis,vivieron,preterite,
+comer,to eat,comí,comiste,comió,comimos,comisteis,comieron,preterite,
+levantarse,to get up,me levanté,te levantaste,se levantó,nos levantamos,os levantasteis,se levantaron,preterite,
+aprender,to learn,aprendí,aprendiste,aprendió,aprendimos,aprendisteis,aprendieron,preterite,
+escribir,to write,escribí,escribiste,escribió,escribimos,escribisteis,escribieron,preterite,
+escoger,to choose,escogí,escogiste,escogió,escogimos,escogisteis,escogieron,preterite,
+tocar,to play (an instrument),toqué,tocaste,tocó,tocamos,tocasteis,tocaron,preterite,cargarzar
+llegar,to arrive,llegué,llegaste,llegó,llegamos,llegasteis,llegaron,preterite,cargarzar
+empezar,to begin,empecé,empezaste,empezó,empezamos,empezasteis,empezaron,preterite,cargarzar
+leer,to read,leí,leíste,leyó,leímos,leísteis,leyeron,preterite,y-verb
+creer,to believe,creí,creíste,creyó,creímos,creísteis,creyeron,preterite,y-verb
+caerse,to fall,me caí,te caíste,se cayó,nos caímos,os caísteis,se cayeron,preterite,y-verb
+oír,to hear,oí,oíste,oyó,oímos,oísteis,oyeron,preterite,y-verb
+incluir,to include,incluí,incluiste,incluyó,incluimos,incluisteis,incluyeron,preterite,y-verb
+destruir,to destroy,destruí,destruiste,destruyó,destruimos,destruisteis,destruyeron,preterite,y-verb
+concluir,to conclude,concluí,concluiste,concluyó,concluimos,concluisteis,concluyeron,preterite,y-verb
+buscar,to search,busqué,buscaste,buscó,buscamos,buscasteis,buscaron,preterite,cargarzar
+ensayar,to rehearse,ensayé,ensayaste,ensayó,ensayamos,ensayasteis,ensayaron,preterite,
+conocer,to know (a person or place),conocí,conociste,conoció,conocimos,conocisteis,conocieron,preterite,
+asistir,to attend,asistí,asististe,asistió,asistimos,asististeis,asistieron,preterite,
+ganar,to win,gané,ganaste,ganó,ganamos,ganasteis,ganaron,preterite,
+volver,to return,volví,volviste,volvió,volvimos,volvisteis,volvieron,preterite,
+encontrar,to find,encontré,encontraste,encontró,encontramos,encontrasteis,encontraron,preterite,
+gastar,to spend,gasté,gastaste,gastó,gastamos,gastasteis,gastaron,preterite,
+comprar,to buy,compré,compraste,compró,compramos,comprasteis,compraron,preterite,
+lavarse,to wash oneself,me lavé,te lavaste,se lavó,nos lavamos,os lavasteis,se lavaron,preterite,
+bañarse,to bathe oneself,me bañé,te bañaste,se bañó,nos bañamos,os bañasteis,se bañaron,preterite,
